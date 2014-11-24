@@ -20,7 +20,7 @@ Simple demo script for the new APIs to support multi-interface for
 #    currently, this script can't generate anything interesting if you config
 #    the interfaces of node 1 and 2 on different channels
 #  
-#     
+#     --Xuan Chen, USC/ISI, July 21, 2000
 #
 set val(chan)           Channel/WirelessChannel    ;#Channel Type
 set val(prop)           Propagation/TwoRayGround   ;# radio-propagation model

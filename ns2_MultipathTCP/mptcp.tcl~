@@ -2,7 +2,7 @@
 #
 # sample script for mptcp implementation on ns-2
 #
-#      
+#      Yoshifumi Nishida <nishida@sfc.wide.ad.jp>
 #
 #
 set ns [new Simulator]
